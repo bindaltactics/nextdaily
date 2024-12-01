@@ -53,3 +53,5 @@ Deploy the example using [Vercel](https://vercel.com) or view the demo [here](ht
 4. Run `pnpm prisma db push` to create prisma models.
 5. Run `pnpm dev` to start development mode to server.
 6. Run `pnpm prisma studio` to manage tags and resources.
+
+7. 
